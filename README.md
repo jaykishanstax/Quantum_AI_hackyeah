@@ -47,9 +47,7 @@ Quantum AI repo for Hackyeah
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#Reference">Reference</a></li>
   </ol>
 </details>
 
@@ -124,7 +122,7 @@ If you want to contribute to this repo or fork it to make your own, feel free!
 
 
 <!-- Some good Material to work on -->
-## Good Reference 
+## Reference 
 
 * [Qiskit Tutorials](https://qiskit.org/documentation/tutorials.html)
 * [Qiskit ML Repo](https://github.com/qiskit-community/qiskit-machine-learning)
